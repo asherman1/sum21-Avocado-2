@@ -9,3 +9,11 @@ Avoccado 2- Summer 2021
 - Walt Griggs    - wgrig002@odu.edu
 - Nathan Greaney - ngrea001@odu.edu
 - Alex Lasson    - alasso006@odu.edu
+
+### USER INSTRUCTIONS ###
+
+The focus of this program will extract all the valid URL data from a website.
+
+1 - Enter the desired website URL in the command line. 
+2 - Press the Enter.
+3 - An outpost will be printed and a file created containing the URL data.
